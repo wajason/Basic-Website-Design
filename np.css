@@ -1,0 +1,43 @@
+@charset "utf-8";
+#p00 {
+    position: absolute;
+    left: 1200px;
+    top: 300px;
+    visibility: hidden;
+}
+#p01 {
+    width: 306px;
+    position: absolute;
+    left: 1200px;
+    top: 300px;
+    visibility: hidden;
+}
+#p02 {
+    width: 310px;
+    position: absolute;
+    left: 1200px;
+    top: 300px;
+    visibility: hidden;
+}
+#p03 {
+    width: 300px;
+    position: absolute;
+    left: 1150px;
+    top: 750px;
+    visibility: hidden;
+}
+#p04 {
+    width: 300px;
+    position: absolute;
+    top: 980px;
+    left: 550px;
+    visibility: hidden;
+}
+#p05 {
+    width: 300px;
+    visibility: hidden;
+    position: absolute;
+    padding-top: 0px;
+    top: 350px;
+    left: 380px;
+}

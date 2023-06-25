@@ -1,0 +1,41 @@
+@charset "utf-8";
+/* CSS Document */
+
+.webbox {
+    min-width: 0px;
+    width: 100%;
+}
+header {
+    height: 200px;
+    text-align: center;
+    background-color: #E5F9FF;
+}
+nav {
+    height: 52px;
+    background-color: #16E4D4;
+    text-align: center;
+    color: #CD9327;
+}
+main {
+    width: 100%;
+}
+footer  {
+    height: 150px;
+    background-color: #EC1518;
+}
+
+.button {
+    background-color: #4CAF50; /* Green */
+    border: 1px solid green;
+    color: #b350AF;
+    padding: 15px 32px;
+    display: inline-block;
+    font-size: 16px;
+    cursor: pointer;
+    float: none;
+    text-shadow: 0px 0px #4CAF50;
+#16E4D4#16E4D4#16E4D4#16E4D4#16E4D4#16E4D4#16E4D4#16E4D4#16E4D4#16E4D4#16E4D4#16E4D4#16E4D4#16E4D4#16E4D4#16E4D4#16E4D4#16E4D4#16E4D4}
+.button:hover {
+    background-color: #990000;
+    color: #4EB052;
+}
